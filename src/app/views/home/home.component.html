@@ -1,0 +1,8 @@
+<div class="home">
+    <h1 class="separation">Latest posts</h1>
+
+    <div *ngFor="let item of posts; let pos = index" class="alert alert-light" role="alert">
+      <div><b>{{ item.title }}</b></div>
+      <div>{{ item.description }}</div>
+    </div>
+</div>
