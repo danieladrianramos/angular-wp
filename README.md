@@ -1,6 +1,6 @@
 # Angulap-wp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+Simple version of a WP just for testing some stuff and play with the framework
 
 # Steps
 * Clone the repo
